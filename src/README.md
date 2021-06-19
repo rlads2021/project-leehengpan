@@ -3,7 +3,7 @@
 * `Biden-POTUS-Final-Project_files/`: 專案相關圖表檔案
 * `site_libs/`: 網站所需之相關資源 (e.g., jquery, fonts)
 * `Biden POTUS Final Project.Rmd`: 程式碼
-* `Biden-POTUS-Final-Project.html`: Rmd輸出之html檔
+* `Biden-POTUS-Final-Project.html`: Rmd 輸出之 html 檔
 * `style.css`: Github Pages 之css格式設定
 * `_site.yml`: Github Pages 相關設定 
 
